@@ -1,4 +1,5 @@
 # bigwid
+Young French developer, always eager to learn.
 
 ## Languages
 - Go
